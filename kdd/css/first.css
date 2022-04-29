@@ -1,36 +1,68 @@
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
-    color: #202020;
-}
-
-p {
-    font-size: 20px;
-}
-
-h1 {
-    font: size 30px;
-}
-
-# first-article {
-    font-size: 40px;
-}
-
-.text-red {
-    color: red;
-}
-
-.fs-small {
-    font-size: 12px;
-}
-
-.fs-medium {
-    font-size: 18px;
-}
-
-.fs-large {
-    font-size: 30px;
-}
+        h1,
+        h2,
+        h3,
+        h4,
+        h5,
+        h6 {
+            color: #202020;
+        }
+        
+        p {
+            font-size: 20px;
+        }
+        
+        h1 {
+            font: size 30px;
+        }
+        
+        #first-article {
+            font-size: 40px;
+        }
+        
+        .text-red {
+            color: red;
+        }
+        
+        .fs-small {
+            font-size: 12px;
+        }
+        
+        .fs-medium {
+            font-size: 18px;
+        }
+        
+        .fs-large {
+            font-size: 30px;
+        }
+        
+        h1 {
+            float: left;
+        }
+        
+        .clearfix {
+            clear: both;
+        }
+        
+        .box {
+            background-color: red;
+            height: 300px;
+            width: 300px;
+            padding: 10px;
+            /* margin-right: 15px;
+    margin-left: 10px;
+    margin-top: 20px;*/
+            margin-bottom: 10px;
+            float: left;
+        }
+        
+        .bg-red {
+            background-color: red;
+        }
+        
+        .bg-green {
+            background-color: green;
+        }
+        
+        .clear {
+            clear: both;
+        }
