@@ -39,6 +39,23 @@
             float: left;
         }
         
+        body {
+            margin: 0;
+            padding: 0;
+        }
+        
+        .container {
+            width: 1000px;
+        }
+        
+        .left-bar {
+            width: 200px;
+        }
+        
+        .content {
+            width: 800px;
+        }
+        
         .clearfix {
             clear: both;
         }
@@ -61,6 +78,10 @@
         
         .bg-green {
             background-color: green;
+        }
+        
+        .bg-yellow {
+            background-color: yellow;
         }
         
         .clear {
